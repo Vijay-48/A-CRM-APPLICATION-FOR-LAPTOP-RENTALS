@@ -122,6 +122,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or support, please contact the project maintainer.
 
----
-
-This README covers all the key aspects of your project and provides comprehensive instructions for setting it up. Let me know if you'd like any additional sections or modifications!
